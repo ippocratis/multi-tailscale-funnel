@@ -1,0 +1,8 @@
+services:
+  service1:
+    port: 8080
+    hostname: service1
+  service2:
+    port: 8000
+    hostname: service2
+
